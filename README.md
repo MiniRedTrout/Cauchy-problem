@@ -1,2 +1,2 @@
-# Cauchy-problem-
+# Cauchy-problem
 Runge-Kutt methods to solve Cauchy problem
